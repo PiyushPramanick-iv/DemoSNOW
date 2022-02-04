@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Demo Table for Github" max_length="40" name="x_682681_github_0_demo_table_for_github" type="collection">
+        <element label="Demo Lname" max_length="40" name="demo_lname" type="string"/>
+        <element label="Demo Name" max_length="40" name="demo_name" type="string"/>
+    </element>
+</database>

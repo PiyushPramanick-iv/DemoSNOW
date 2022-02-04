@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Demo Table for Github" language="en" table="x_682681_github_0_demo_table_for_github">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Demo Table for Github</label>
+            <language>en</language>
+            <name>x_682681_github_0_demo_table_for_github</name>
+            <plural>Demo Table for Githubs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-04 06:49:09</sys_created_on>
+            <sys_id>94b7a8142f2101109ea3309cf699b6d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Demo Table for Github</sys_name>
+            <sys_package display_value="Github Import Demo" source="x_682681_github_0">9656e0d02f2101109ea3309cf699b6ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Github Import Demo">9656e0d02f2101109ea3309cf699b6ed</sys_scope>
+            <sys_update_name>sys_documentation_x_682681_github_0_demo_table_for_github__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-04 06:49:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
